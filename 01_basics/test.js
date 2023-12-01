@@ -1,1 +1,1 @@
-console.log("Naime")
+console.log("naime")
